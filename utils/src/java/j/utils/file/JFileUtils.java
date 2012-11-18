@@ -13,7 +13,7 @@ import java.io.UnsupportedEncodingException;
  * 
  * @author j
  */
-public class FileUtils {
+public class JFileUtils {
 
 	/**
 	 * get files where there are under the specific folder
